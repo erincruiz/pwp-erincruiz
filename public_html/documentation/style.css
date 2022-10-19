@@ -1,7 +1,11 @@
-body {
+.text{
     margin: auto;
     width: 850px;
     padding: 50px;
     font-family: "Century Gothic", sans-serif;
     color: #324A6B;
+}
+
+.wire {
+    text-align: center;
 }
