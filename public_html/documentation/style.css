@@ -1,3 +1,4 @@
+/* milestones 1 and 2 */
 .text{
     margin: auto;
     width: 850px;
@@ -10,6 +11,30 @@
     text-align: center;
 }
 
+/* main html project */
 .aboutMe {
-    background-color: tan;
+    background-color: #F7F7F3;
+}
+.headshot {
+    height: 450px;
+}
+
+.footer {
+    background-color: #F7F7F3;
+}
+
+.graphicDesign {
+    background-color: #F7F7F3;
+}
+
+.navbar {
+    background-color: #F7F7F3;
+}
+
+.logo {
+    width: 50px;
+}
+
+h2 {
+    font-family: 'Cooper Black', sans-serif;
 }
