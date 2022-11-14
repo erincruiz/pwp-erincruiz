@@ -52,5 +52,23 @@ box-shadow .3s ease-in-out;
 
 .contact:hover {
     color: #252525;
-    box-shadow: inset 200px 0 0 0 #EFEAFA;
+    box-shadow: inset 200px 0 0 0 #B4AEC8;
+}
+
+.shop {
+    color: #252525;
+    font-family: 'Cooper Black', sans-serif;
+}
+
+.desertQuinn {
+    color: #252525;
+    font-family: 'Cooper Black', sans-serif;
+}
+
+.shop:hover {
+    color: #9C94B6;
+}
+
+.desertQuinn:hover {
+    color: #9C94B6;
 }
