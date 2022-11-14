@@ -12,6 +12,14 @@
 }
 
 /* main html project */
+body {
+    font-size: larger;
+}
+
+.header {
+    max-width: 100%;
+}
+
 .aboutMe {
     background-color: #F7F7F3;
 }
@@ -40,6 +48,7 @@ h2 {
     background-color: #F7F7F3;
     color: #252525;
     font-family: 'Cooper Black', sans-serif;
+    font-size: x-large;
 }
 
 .contact{
